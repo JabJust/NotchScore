@@ -1,0 +1,6 @@
+{
+  "name": "Cutout Live — Camera Cutout Scoreboard",
+  "description": "Interactive collapsed-state smartphone camera cutout scoreboard with team colors, luminous goal glow animations, and in-cutout scorer name pops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
